@@ -1,0 +1,26 @@
+.ios, .md {
+ 
+  add-review-page {
+    ion-header {
+        background-color: #2a00ff;
+    }
+    ion-content {
+        background-color: #2a00ff;
+    }
+    ion-label {
+      margin-left: 10px;
+      
+    }
+ 
+    ion-item {
+      background-color: #4f4f4f !important;
+    }
+ 
+    ion-input, ion-select, ion-textarea {
+      background-color: #f2f2f2;
+      padding: 5px 10px;
+    }
+ 
+  }
+ 
+}
